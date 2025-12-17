@@ -1,0 +1,3 @@
+/home/auo/桌面/1216/aarch64/customNodesCppExamplePlugin02/build/CMakeFiles/customNodesCppExamplePlugin02.dir
+/home/auo/桌面/1216/aarch64/customNodesCppExamplePlugin02/build/CMakeFiles/edit_cache.dir
+/home/auo/桌面/1216/aarch64/customNodesCppExamplePlugin02/build/CMakeFiles/rebuild_cache.dir
