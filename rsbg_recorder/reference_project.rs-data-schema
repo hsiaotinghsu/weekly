@@ -1,0 +1,19 @@
+{
+    "schemas": [
+        {
+            "uuid": "8919f8f4-d37b-4650-a28d-07e0eda99f43",
+            "name": "Forward Camera",
+            "fields": [
+                {
+                    "name": "Camera image",
+                    "type": "array",
+                    "array": {
+                        "type": "rgb8",
+                        "width": 1920,
+                        "rows": 1024
+                    }
+                }
+            ]
+        }
+    ]
+}
